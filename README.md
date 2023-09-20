@@ -6,11 +6,11 @@
   - Wechat: Peter1146717850
   - CSDN: Peter1146717850
   - Leetcode: momo-5cd
-- Education:
+- Education experience:
   - University: 中国海洋大学(Ocean University of China)
-  - High school: 山东省青岛第五十八中学
-  - Middle school: 山东省青岛第二十六中学
-  - Primary school: 青岛市实验小学
+  - High school: 山东省青岛第五十八中学 (2018-2021)
+  - Middle school: 山东省青岛第二十六中学 (2015-2018)
+  - Primary school: 青岛市实验小学 (2009-2015)
 - I was born in Qingdao, Shandong province, China. Qingdao is a beautiful coastal city, with its beautiful scenery and pleasant climate.
 - What I have achieved: (introduced by Chinese, and they were gotten in OUC)
   - 2021年军事训练“先进个人”
@@ -22,7 +22,7 @@
   - 2023年“蓝桥杯”全国软件和信息技术专业人才大赛 C/C++组 山东省二等奖
   - 2023年MathorCup高校数学建模挑战赛 国家级一等奖
 - My project:
-  - Shopify App-Embed block development (in my repository)
+  - Shopify App-Embed Block development (in my repository)
 - Future goal:
   - Attending a TOEFL test?
   - Find a high-quality master project
