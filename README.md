@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanxiangTAO
-- 👀 I’m interested in cars
+- 👀 I’m interested in cars (Dream car: volvo v60 T8 polestar)
 - 🌱 I’m major in computer science
 - 📫 How to reach me ...
   - qq: 1146717850
@@ -15,9 +15,9 @@
   - 2023年MCM/ICM Honorable Mention
   - 2023年“蓝桥杯”全国软件和信息技术专业人才大赛 C/C++组 山东省二等奖
   - 2023年MathorCup高校数学建模挑战赛 国家级一等奖
-
-
-<!---
-hanxiangTAO/hanxiangTAO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My project:
+  - Shopify App-Embed block development (in my repository)
+- Future goal:
+  - Attending a TOEFL test?
+  - Find a high-quality master project
+  - Buy a house with a big open balcony😀
