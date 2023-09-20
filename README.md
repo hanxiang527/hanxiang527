@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @hanxiangTAO
 - 👀 I’m interested in cars (Dream car: volvo v60 T8 polestar)
+- I'm good at playing violin, and I'm a classic music lover.
 - 🌱 I’m major in computer science
 - 📫 How to reach me ...
   - qq: 1146717850
@@ -25,5 +26,5 @@
   - Shopify App-Embed Block development (in my repository)
 - Future goal:
   - Attending a TOEFL test?
-  - Find a high-quality master project
+  - Find a high-quality master project (maybe AI or Data Science)
   - Buy a house with a big open balcony😀
