@@ -4,6 +4,8 @@
 - 📫 How to reach me ...
   - qq: 1146717850
   - Wechat: Peter1146717850
+  - CSDN: Peter1146717850
+  - Leetcode: momo-5cd
 - My school: Ocean University of China
 - I was born in Qingdao, Shandong province, China. Qingdao is a beautiful coastal city, with its beautiful scenery and pleasant climate.
 - What I have achieved: (introduced by Chinese, and they were gotten in OUC)
