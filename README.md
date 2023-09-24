@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanxiangTAO
 - 👀 I’m interested in cars (Dream car: volvo v60 T8 polestar)
-- I'm good at playing violin, and I'm a classic music lover.
+- I'm good at playing the violin, and I'm a classic music lover.
 - 🌱 I’m major in computer science
 - 📫 How to reach me ...
   - qq: 1146717850
