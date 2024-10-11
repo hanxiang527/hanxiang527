@@ -1,30 +1,15 @@
 - 👋 Hi, I’m @hanxiangTAO
-- 👀 I’m interested in cars (Dream car: volvo v60 T8 polestar)
-- I'm good at playing the violin, and I'm a classic music lover.
-- 🌱 I’m major in computer science
+- 👀 I'm good at playing the violin, and I'm a music lover.
+- 🌱 I’m major in Computer Science and Technology (Bachelor) and Information and Communication Engineering (Master).
 - 📫 How to reach me ...
-  - qq: 1146717850
-  - Wechat: Peter1146717850
+  - E-mail: hx3995@gmail.com
   - CSDN: Peter1146717850
   - Leetcode: momo-5cd
 - Education experience:
-  - University: 中国海洋大学(Ocean University of China)
+  - University (Master): 华中科技大学 (Huazhong University of Science and Technology)
+  - University (Bachelor): 中国海洋大学 (Ocean University of China) (2021-2025)
   - High school: 山东省青岛第五十八中学 (2018-2021)
   - Middle school: 山东省青岛第二十六中学 (2015-2018)
   - Primary school: 青岛市实验小学 (2009-2015)
 - I was born in Qingdao, Shandong province, China. Qingdao is a beautiful coastal city, with its beautiful scenery and pleasant climate.
-- What I have achieved: (introduced by Chinese, and they were gotten in OUC)
-  - 2021年军事训练“先进个人”
-  - 2021-2022年度校级一等奖学金
-  - 第十五届“永旺奖学金”
-  - 2021-2022年度校“优秀学生”
-  - 2022年“高教社杯”全国大学生数学建模竞赛 山东省二等奖
-  - 2023年MCM/ICM Honorable Mention
-  - 2023年“蓝桥杯”全国软件和信息技术专业人才大赛 C/C++组 山东省二等奖
-  - 2023年MathorCup高校数学建模挑战赛 国家级一等奖
-- My project:
-  - Shopify App-Embed Block development (in my repository)
-- Future goal:
-  - Attending a TOEFL test?
-  - Find a high-quality master project (maybe AI or Data Science)
-  - Buy a house with a big open balcony😀
+- Please feel free to contact me!
