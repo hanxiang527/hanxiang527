@@ -13,6 +13,3 @@
   - Primary school: 青岛市实验小学 (2009-2015)
 - I was born in Qingdao, Shandong province, China. Qingdao is a beautiful coastal city, with its beautiful scenery and pleasant climate.
 - Please feel free to contact me!
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
