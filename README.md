@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanxiangTAO
+- 👋 Hi, I’m Peter Han.
 - 👀 I'm good at playing the violin, and I'm a music lover.
 - 🌱 I’m major in Computer Science and Technology (Bachelor) and Information and Communication Engineering (Master).
 - 📫 How to reach me ...
